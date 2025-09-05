@@ -16,8 +16,12 @@ Corresponde ao primeiro item solicitado no exercício "c". Execute a classe main
 Após a inserção dos valores, será impressa a lista C, resultante do merge das listas A e B.
 
 EX:
+
 Lista A quantidade: 3
+
 Lista B quantidade: 3
+
 Lista A: 2 4 6
+
 Lista b: 3 5 7
 
