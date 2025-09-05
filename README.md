@@ -11,13 +11,7 @@ Corresponde o exercicio "b" da atividade enviada. Execute a classe "main". Temos
 EX: 2 4 8 16
 
 3. Merge_TDE_Vetor
-Corresponde ao primeiro item solicitado no exercício "c". Execute a classe main.
-O programa solicitará:
-
-a. Inserir a quantidade/capacidade da lista A.
-b. Inserir a quantidade/capacidade da lista B.
-c. Inserir, um por um, os valores da lista A, até atingir a capacidade definida.
-d. Inserir, um por um, os valores da lista B, até atingir a capacidade definida.
+Corresponde ao primeiro item solicitado no exercício "c". Execute a classe main.O programa solicitará: a. Inserir a quantidade/capacidade da lista A; b. Inserir a quantidade/capacidade da lista B; c. Inserir, um por um, os valores da lista A, até atingir a capacidade definida; d. Inserir, um por um, os valores da lista B, até atingir a capacidade definida;
 
 Após a inserção dos valores, será impressa a lista C, resultante do merge das listas A e B.
 
